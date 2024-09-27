@@ -21,3 +21,4 @@ https://www.hessmer.org/gears/CycloidalGearBuilder.html
 - code is slow to generate
 - Im gonna leave this as is, as Ive moved to developing https://github.com/fzuleta/fusion-360-cycloidal-gears-nihs which is `NIHS 20-01 NIHS 20-02 NIHS 20-10`
 - Needs arcs in the tooth, easy to do, if you feel like improving this ❤️
+- TODO: Fusion's dimensions in the python api are in CM, need to make afunction to convert to mm
